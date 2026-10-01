@@ -15,3 +15,7 @@ Quickly access nearby healthcare facilities and important medical contacts when 
 
 ## The Goal:
 The goal of the application is to give parents a simple and organized way to stay informed about their child’s congenital heart disease care while making healthcare resources easier to access.
+# Note: 
+This project has recommendation letter from Dr Lo'ai tawalbeh in jordan university of science and technology
+and here is the drive of it 
+#### https://drive.google.com/drive/folders/18LP42pphTYh9_CyhoXl31H1bABKbjWlD
