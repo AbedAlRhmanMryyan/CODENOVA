@@ -1,4 +1,5 @@
-### Our app is designed to help parents and caregivers monitor and manage the health of children with congenital heart disease (CHD). It provides important health information, reminders, and quick access to medical support in one place.
+# Congenital Heart Disease Application
+### My app is designed to help parents and caregivers monitor and manage the health of children with congenital heart disease (CHD). It provides important health information, reminders, and quick access to medical support in one place.
 
 ## Key Features:
 
