@@ -20,3 +20,5 @@ The goal of the application is to give parents a simple and organized way to sta
 This project has recommendation letter from Dr Lo'ai tawalbeh in jordan university of science and technology
 and here is the drive of it 
 #### https://drive.google.com/drive/folders/18LP42pphTYh9_CyhoXl31H1bABKbjWlD
+Also, I have a video demonstrating the application running, along with the presentation slides.
+#### https://drive.google.com/drive/folders/1ts7AeL4v09rbn8cscKVlLtLaG6dewQVa?usp=drive_link
